@@ -37,15 +37,15 @@ const CarouselBase = ({ items = [], title }) => {
   return (
     <div className="flex justify-center w-full mb-4">
       {/* constrained width for clearer image */}
-      <div className="relative w-full max-w-6xl">
+      <div className="relative w-full max-w-4xl">
         <div
-          className="h-[600px] bg-cover bg-center transition-all duration-800"
-          style={{
-            backgroundImage: `linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.3)), url(${current.imageUrl})`,
-            backgroundSize: 'contain',
-            backgroundPosition: 'center',
-          }}
-        >
+  className="h-[400px] bg-cover bg-center transition-all duration-800"
+  style={{
+    backgroundImage: `url(${current.imageUrl})`,
+    // backgroundSize: 'cover',
+    backgroundPosition: 'center',
+  }}
+>
         {/* Overlay Content - Menu Item Info (centered full column) */}
         <div className="container mx-auto h-full px-6">
           <div className="flex h-full">
@@ -54,7 +54,7 @@ const CarouselBase = ({ items = [], title }) => {
 
             {/* Middle - Item Information (full column) */}
             <div className="w-2/4 flex items-center">
-              <div className={`text-white ${isAnimating ? "pop-in" : ""}`}>
+              <div className={`text-amber-300 ${isAnimating ? "pop-in" : ""}`}>
                 <h2 className="text-3xl md:text-4xl font-bold mb-4 tracking-wide">
                   {current.title}
                 </h2>
@@ -72,10 +72,10 @@ const CarouselBase = ({ items = [], title }) => {
             {/* Right spacer */}
             <div className="w-1/4 pt-8">
               <div className={`rounded-lg p-6 shadow-lg ${isAnimating ? "pop-in" : ""}`}>
-                <h2 className="text-xl font-bold text-gray-800 mb-4">
+                <h2 className="text-xl font-bold text-amber-400 mb-4">
                   {title}
                 </h2>
-                <p className="text-sm text-gray-600">
+                <p className="text-sm text-amber-400">
                   Slide {currentSlide + 1} of {items.length}
                 </p>
               </div>
