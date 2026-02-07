@@ -38,12 +38,7 @@ const Hero = () => {
   return (
     <>
       {/* Navbar */}
-      <div className="bg-white text-white py-3 px-6">
-        <div className="container mx-auto flex justify-between items-center">
-          
-          <p className=" text-sm hidden md:block"></p>
-        </div>
-      </div>
+     
 
       {/* Hero Section with Carousel of changing image background */}
       <div className="relative w-full">
