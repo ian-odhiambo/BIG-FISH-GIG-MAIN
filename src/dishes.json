@@ -240,28 +240,28 @@
     {
       "title": "Cocopine",
       "description": "Coconut and pineapple blend",
-      "imageUrl": "https://images.unsplash.com/photo-1547516508-4be1c5d1a0b6?w=1200&q=80",
+      "imageUrl": "https://media.istockphoto.com/id/2149063455/photo/selective-focus-of-bael-fruit-juice-drink.webp?a=1&b=1&s=612x612&w=0&k=20&c=219n78Ya5EMxCYfyF3jateCe4Q3dbAV9KOJbR-Sgp98=",
       "price": "200.00",
       "category": "Organic Juices"
     },
     {
       "title": "Pinacolada",
       "description": "Tropical pina colada juice",
-      "imageUrl": "https://images.unsplash.com/photo-1587381052846-94f94bb11c6b?w=1200&q=80",
+      "imageUrl": "https://media.istockphoto.com/id/92077490/photo/pi-241-a-colada.webp?a=1&b=1&s=612x612&w=0&k=20&c=8pAJp-MQO30flgewF2xi6G_vsYf8P3yTjQS0a_B02Ck=",
       "price": "200.00",
       "category": "Organic Juices"
     },
     {
       "title": "Turmeric",
       "description": "Golden turmeric juice",
-      "imageUrl": "https://images.unsplash.com/photo-1626254187872-3054e4bd4c0f?w=1200&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1585777786465-6718cdebf904?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEdvbGRlbiUyMHR1cm1lcmljJTIwanVpY2V8ZW58MHx8MHx8fDA%3D",
       "price": "200.00",
       "category": "Organic Juices"
     },
     {
       "title": "Beetroot",
       "description": "Earthy beetroot juice",
-      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=1200&q=80",
+      "imageUrl": "https://media.istockphoto.com/id/596039408/photo/beetroot-shots.webp?a=1&b=1&s=612x612&w=0&k=20&c=cPMhcajJYcb3bj020R8hxLbvczQsM79UFXG0ZazSbuY=",
       "price": "200.00",
       "category": "Organic Juices"
     },
@@ -275,77 +275,77 @@
     {
       "title": "Pineapple",
       "description": "Fresh pineapple juice",
-      "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=1200&q=80",
+      "imageUrl": "https://media.istockphoto.com/id/2259356591/photo/pineapple-juice.webp?a=1&b=1&s=612x612&w=0&k=20&c=gJI66EcoLxRgcv_dVbEduPwxPHOUJWjY3TeWyItJkaM=",
       "price": "200.00",
       "category": "Organic Juices"
     },
     {
       "title": "Avocado",
       "description": "Creamy avocado juice",
-      "imageUrl": "https://images.unsplash.com/photo-1553530666-ba2a8e36b814?w=1200&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1630252595285-3bbcb51378d8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q3JlYW15JTIwYXZvY2FkbyUyMGp1aWNlfGVufDB8fDB8fHww",
       "price": "200.00",
       "category": "Organic Juices"
     },
     {
       "title": "Banana Smoothie",
       "description": "Creamy banana smoothie",
-      "imageUrl": "https://images.unsplash.com/photo-1584735175315-18a6f180880b?w=1200&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1622887500410-a093b67c40e9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Q3JlYW15JTIwYmFuYW5hJTIwanVpY2V8ZW58MHx8MHx8fDA%3D",
       "price": "250.00",
       "category": "Smoothie"
     },
     {
       "title": "Mango Smoothie",
       "description": "Tropical mango smoothie",
-      "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=1200&q=80",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1671559021800-6b9162ec628e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VHJvcGljYWwlMjBtYW5nbyUyMHNtb290aGllfGVufDB8fDB8fHww",
       "price": "250.00",
       "category": "Smoothie"
     },
     {
       "title": "Avocado Smoothie",
       "description": "Creamy avocado smoothie",
-      "imageUrl": "https://images.unsplash.com/photo-1553530666-ba2a8e36b814?w=1200&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1630252595285-3bbcb51378d8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q3JlYW15JTIwYXZvY2FkbyUyMGp1aWNlfGVufDB8fDB8fHww",
       "price": "250.00",
       "category": "Smoothie"
     },
     {
       "title": "Tropical Smoothie",
       "description": "Mixed tropical fruit smoothie",
-      "imageUrl": "https://images.unsplash.com/photo-1609025903355-9f7a7bb61a7f?w=1200&q=80",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1695055513501-2573541f00cd?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fE1peGVkJTIwdHJvcGljYWwlMjBmcnVpdCUyMHNtb290aGllfGVufDB8fDB8fHww",
       "price": "250.00",
       "category": "Smoothie"
     },
     {
       "title": "Milkshakes",
       "description": "Choose your preferred milkshake",
-      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=1200&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWlsa3NoYWtlc3xlbnwwfHwwfHx8MA%3D%3D",
       "price": "500.00",
       "category": "Milkshake"
     },
     {
       "title": "Vanilla",
       "description": "Classic vanilla ice cream",
-      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=1200&q=80",
+      "imageUrl": "https://media.istockphoto.com/id/1160250698/photo/dairy-free-coconut-milk-vanilla-ice-cream-in-a-sugar-cone.webp?a=1&b=1&s=612x612&w=0&k=20&c=inhi4WkiLtTUeVKLY4p7Ba0-9FEGFbPsgmutSrBfzqo=",
       "price": "150.00",
       "category": "Ice Cream"
     },
     {
       "title": "Strawberry",
       "description": "Sweet strawberry ice cream",
-      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=1200&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1571183911579-687725adb5f8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFN3ZWV0JTIwc3RyYXdiZXJyeSUyMGljZSUyMGNyZWFtfGVufDB8fDB8fHww",
       "price": "150.00",
       "category": "Ice Cream"
     },
     {
       "title": "Mango",
       "description": "Tropical mango ice cream",
-      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=1200&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1579462107238-0ff854b04810?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VHJvcGljYWwlMjBtYW5nbyUyMGljZSUyMGNyZWFtfGVufDB8fDB8fHww",
       "price": "150.00",
       "category": "Ice Cream"
     },
     {
       "title": "Mint",
       "description": "Cool mint ice cream",
-      "imageUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=1200&q=80",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1663853490433-5ed3ff06f9ea?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWludCUyMGljZSUyMGNyZWFtfGVufDB8fDB8fHww",
       "price": "150.00",
       "category": "Ice Cream"
     },
@@ -359,7 +359,7 @@
     {
       "title": "Heineken",
       "description": "Premium lager beer",
-      "imageUrl": "https://images.unsplash.com/photo-1608270861620-7c81f5d55a80?w=1200&q=80",
+      "imageUrl": "https://images.unsplash.com/photo-1516128043650-037fbdbd0b6e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SGVpbmVrZW58ZW58MHx8MHx8fDA%3D",
       "price": "400.00",
       "category": "Beers"
     },
