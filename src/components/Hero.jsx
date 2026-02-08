@@ -11,25 +11,25 @@ const Hero = () => {
     if (isAnimating) return;
     setIsAnimating(true);
     setCurrentSlide((prev) => (prev + 1) % dishes.length);
-    setTimeout(() => setIsAnimating(false), 500);
+    setTimeout(() => setIsAnimating(false), 200);
   };
 
   const prevSlide = () => {
     if (isAnimating) return;
     setIsAnimating(true);
     setCurrentSlide((prev) => (prev - 1 + dishes.length) % dishes.length);
-    setTimeout(() => setIsAnimating(false), 500);
+    setTimeout(() => setIsAnimating(false), 200);
   };
 
   const goToSlide = (index) => {
     if (isAnimating || index === currentSlide) return;
     setIsAnimating(true);
     setCurrentSlide(index);
-    setTimeout(() => setIsAnimating(false), 500);
+    setTimeout(() => setIsAnimating(false), 200);
   };
 
   useEffect(() => {
-    const interval = setInterval(nextSlide, 5000);
+    const interval = setInterval(nextSlide, 2000);
     return () => clearInterval(interval);
   }, []);
 
@@ -46,7 +46,7 @@ const Hero = () => {
         <div
           className="h-[600px] bg-cover bg-center transition-all duration-800"
           style={{
-            backgroundImage: `linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.3)), url(${currentDish.image})`,
+            backgroundImage: ` url(${currentDish.image})`,
           }}
         >
           {/* Overlay Content - Menu & Dish Info */}

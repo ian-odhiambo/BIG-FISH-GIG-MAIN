@@ -8,25 +8,25 @@ const CarouselBase = ({ items = [], title }) => {
     if (isAnimating || items.length === 0) return;
     setIsAnimating(true);
     setCurrentSlide((prev) => (prev + 1) % items.length);
-    setTimeout(() => setIsAnimating(false), 500);
+    setTimeout(() => setIsAnimating(false), 200);
   };
 
   const prevSlide = () => {
     if (isAnimating || items.length === 0) return;
     setIsAnimating(true);
     setCurrentSlide((prev) => (prev - 1 + items.length) % items.length);
-    setTimeout(() => setIsAnimating(false), 500);
+    setTimeout(() => setIsAnimating(false), 200);
   };
 
   const goToSlide = (index) => {
     if (isAnimating || index === currentSlide) return;
     setIsAnimating(true);
     setCurrentSlide(index);
-    setTimeout(() => setIsAnimating(false), 500);
+    setTimeout(() => setIsAnimating(false), 200);
   };
 
   useEffect(() => {
-    const interval = setInterval(nextSlide, 5000);
+    const interval = setInterval(nextSlide, 2000);
     return () => clearInterval(interval);
   }, [items]);
 
@@ -39,7 +39,7 @@ const CarouselBase = ({ items = [], title }) => {
       {/* constrained width for clearer image */}
       <div className="relative w-full max-w-4xl">
         <div
-  className="h-[400px] bg-cover bg-center transition-all duration-800"
+  className="h-[400px] bg-cover bg-center bg-no-repeat transition-all duration-800"
   style={{
     backgroundImage: `url(${current.imageUrl})`,
     // backgroundSize: 'cover',
