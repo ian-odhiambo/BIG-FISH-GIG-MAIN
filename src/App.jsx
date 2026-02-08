@@ -9,6 +9,7 @@ import MainLayOut from "./layout/MainLayOut";
 import HomePage from "./pages/HomePage";
 import ReservePage from "./pages/ReservePage"
 import MenuPage from "./pages/MenuPage";
+import AboutPage from "./pages/AboutPage"
 import GalleryPage from "./pages/GalleryPage";
 
 const router = createBrowserRouter(
@@ -18,6 +19,7 @@ const router = createBrowserRouter(
       <Route path= "/reserve" element={<ReservePage />} />
       <Route path= "/menu" element={<MenuPage />} />
       <Route path= "/gallery" element={<GalleryPage />} />
+      <Route path= "/about" element={<AboutPage />} />
     </Route>,
   ),
 );

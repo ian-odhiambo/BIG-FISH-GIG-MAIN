@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "title": "The Big Fish",
+    "subtitle": "True Taste. Ever fresh.",
+    "backgroundImage": "https://images.unsplash.com/photo-1563379091339-03246963d9d6?auto=format&fit=crop&w=1600",
+    "buttonText": "Book with us"
+  },
+  "header": {
+    "title": "Our Story & Passion",
+    "description": "From a humble coastal kitchen to Nairobi's premier fish catering service, we've been crafting unforgettable seafood experiences for over a decade. Every dish tells a story of tradition, quality, and innovation."
+  },
+  "contact": {
+    "title": "Ready to Plan Your Event?",
+    "description": "Contact us today for custom catering quotes and menu consultations.",
+    "email": "sales@bigfish.co.ke",
+    "phone1": "+254 (0) 726 035 166",
+    "phone2": "+254 (0) 721 485 021"
+  }
+}
